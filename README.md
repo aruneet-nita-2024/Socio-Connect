@@ -1,11 +1,9 @@
-<p align='center'>
-<img src='./client/src/assets/logo.svg'  width='25%'>
-</p>
+
 <p align='center'>
 <b>Socio-Connect, A Real Time ChatApp build using MERN stack</b>
 </p>
 <p align='center'>
-<a href='https://tomper-chat.onrender.com/' target='_blank'>tomper-chat.onrender.com</a>
+<a href='https://socio-connect-4u1p.onrender.com' target='_blank'>https://socio-connect-4u1p.onrender.com</a>
 </p>
 
 ---
