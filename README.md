@@ -1,6 +1,6 @@
 
 <p align='center'>
-<b>Socio-Connect, A Real Time ChatApp build using MERN stack</b>
+<b>Socio-Connect, A Real Time ChatApp </b>
 </p>
 <p align='center'>
 <a href='https://socio-connect-4u1p.onrender.com' target='_blank'>https://socio-connect-4u1p.onrender.com</a>
