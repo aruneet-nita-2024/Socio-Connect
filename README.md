@@ -10,7 +10,7 @@
 
 #### 🧾 Description
 
-TomperChat is a clone of WhatsApp. Its build using MERN stack and uses <a href='https://socket.io/'>socket.io</a> for realtime messaging, online statuses, typing indicators, notifications etc.
+Socio-Chat is build using MERN stack and uses <a href='https://socket.io/'>socket.io</a> for realtime messaging, online statuses, typing indicators, notifications etc.
 
 #### ✨ Features
 
